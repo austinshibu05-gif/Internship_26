@@ -241,7 +241,7 @@ tb_top.v
 # Tools Used
 
 - Verilog HDL
-- Xilinx Vivado
+- Cadence tools(Xcelium,Genus,Innovus,Vituoso)
 - FPGA Design Flow
 - ASIC Physical Design Flow
 

@@ -153,11 +153,9 @@ Highlights:
 
 Screenshot:
 
-```
-internship/IMPLEMENTATION FLOW/SYNTHESIS.jpeg
-```
-
----
+<p align="center">
+  <img src="IMPLEMENTATION%20FLOW/SYNTHESIS.jpeg" width="700">
+</p>
 
 # Physical Design Flow
 
@@ -165,55 +163,46 @@ internship/IMPLEMENTATION FLOW/SYNTHESIS.jpeg
 
 Defines the die area and placement region.
 
-```
-internship/IMPLEMENTATION FLOW/FLOORPLAN.jpeg
-```
-
----
+<p align="center">
+  <img src="IMPLEMENTATION%20FLOW/FLOORPLAN.jpeg" width="700">
+</p>
 
 ## Placement
 
 Standard cells placed within the core.
 
-```
-internship/IMPLEMENTATION FLOW/PLACEMENT.jpeg
-```
+<p align="center">
+  <img src="IMPLEMENTATION%20FLOW/PLACEMENT.jpeg" width="700">
+</p>
 
-```
-internship/IMPLEMENTATION FLOW/PLACEMENT2.jpeg
-```
-
----
+<p align="center">
+  <img src="IMPLEMENTATION%20FLOW/PLACEMENT2.jpeg" width="700">
+</p>
 
 ## Power Planning
 
 Power rings and stripes generated.
 
-```
-internship/IMPLEMENTATION FLOW/POWERPLAN.jpeg
-```
-
----
+<p align="center">
+  <img src="IMPLEMENTATION%20FLOW/POWERPLAN.jpeg" width="700">
+</p>
 
 ## Clock Tree Synthesis (CTS)
 
 Balanced clock tree generated with minimized skew.
 
-```
-internship/IMPLEMENTATION FLOW/CTS.jpeg
-```
-
----
+<p align="center">
+  <img src="IMPLEMENTATION%20FLOW/CTS.jpeg" width="700">
+</p>
 
 ## Routing
 
 Final routed design after timing optimization.
 
-```
-internship/IMPLEMENTATION FLOW/ROUTING.jpeg
-```
+<p align="center">
+  <img src="IMPLEMENTATION%20FLOW/ROUTING.jpeg" width="700">
+</p>
 
----
 
 # Running the Simulation (Vivado)
 
@@ -221,7 +210,6 @@ internship/IMPLEMENTATION FLOW/ROUTING.jpeg
 2. Add the RTL files.
 
 ```
-galois_lfsr.v
 scrambler.v
 descrambler.v
 top.v
@@ -267,11 +255,6 @@ Lurina, M., Hadiyoso, S., & Astuti, I. (2017).
 
 This project implements an 8-bit Galois LFSR-based scrambler/descrambler inspired by the architecture presented in the above publication.
 
----
-
-## Author
-
-**Your Name**
 
 B.Tech Electronics and Communication Engineering
 

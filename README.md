@@ -136,11 +136,9 @@ Behavioral simulation verifies that
 
 Simulation waveform:
 
-```
-internship/IMPLEMENTATION FLOW/SIMULATION.jpeg
-```
-
----
+<p align="center">
+  <img src="IMPLEMENTATION%20FLOW/SIMULATION.jpeg" width="700">
+</p>
 
 # Synthesis
 
